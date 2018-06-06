@@ -1,3 +1,7 @@
+# ------------------------------------------------------
+# Make New Friends
+# Brad Carruthers
+# ------------------------------------------------------
 
 # Just a quick function to make new friends
 

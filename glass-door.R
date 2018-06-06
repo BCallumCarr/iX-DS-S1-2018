@@ -1,3 +1,8 @@
+# ------------------------------------------------------
+# GlassDoor Webscraping
+# Brad Carruthers
+# ------------------------------------------------------
+
 library(rvest)
 library(tidyr)
 library(tibble)
