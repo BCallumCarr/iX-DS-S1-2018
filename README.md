@@ -1,1 +1,1 @@
-Just some code from the iX 2018 Data Science course
+Just some code from the iXperience 2018 Data Science course in Cape Town
